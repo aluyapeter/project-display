@@ -19,7 +19,7 @@ export default [
     },
     name: "Ping",
     description:
-      "Ping Coming Soon Page is a simple, responsive landing page built as a frontend challenge from Frontend Mentor. It features an email subscription form with validation, a clean UI, and a modern, minimalist design.",
+      "Ping Coming Soon Page is a simple, responsive landing page built as a frontend challenge from Frontend Mentor.",
     githubLink: "https://github.com/aluyapeter/ping-frontendmentor",
     vercelLink: "https://ping-frontendmentor-phi.vercel.app/",
   },
