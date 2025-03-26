@@ -7,7 +7,7 @@ export default [
     },
     name: "Fintekk",
     description:
-      "FinTekk is a minimalist finance tracking web app that helps users manage their expenses and income. Built with vanilla JavaScript and Scss, it provides a clean, intuitive interface for tracking financial transactions but it's yet to be completed and made functional.",
+      "FinTekk is a minimalist finance tracking web app that helps users manage their expenses and income. Built with vanilla JavaScript and Scss.",
     githubLink: "https://github.com/aluyapeter/fintekk-beta",
     vercelLink: "https://fintekk-mu.vercel.app/",
   },
