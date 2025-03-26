@@ -2,7 +2,7 @@ export default [
   {
     id: 1,
     imgSnippet: {
-      src: "../src/img/fintekk-img.png",
+      src: "/img/fintekk-img.png",
       alt: "",
     },
     name: "Fintekk",
@@ -14,7 +14,7 @@ export default [
   {
     id: 2,
     imgSnippet: {
-      src: "../src/img/ping-img.png",
+      src: "/img/ping-img.png",
       alt: "",
     },
     name: "Ping",
@@ -26,7 +26,7 @@ export default [
   {
     id: 3,
     imgSnippet: {
-      src: "../src/img/social-img.png",
+      src: "/img/social-img.png",
       alt: "",
     },
     name: "Social Group",
@@ -38,7 +38,7 @@ export default [
   {
     id: 4,
     imgSnippet: {
-      src: "../src/img/saint-img.png",
+      src: "/img/saint-img.png",
       alt: "",
     },
     name: "isaint",
